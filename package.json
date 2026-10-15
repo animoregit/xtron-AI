@@ -1,0 +1,12 @@
+{
+  "name": "xtron-x1",
+  "version": "1.0.0",
+  "description": "XTRON X1 — AI Chat Interface powered by Ollama",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
